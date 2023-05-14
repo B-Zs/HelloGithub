@@ -12,5 +12,12 @@ namespace HelloGithub
         public int Age { get; set; }
         
         public string Job {get;set;}//weboldalrol ideirva
+    
+        public DateTime BirthDate { get; set; }
+
+        public string MotherName { get; set; }
+
+
+    
     }
 }
